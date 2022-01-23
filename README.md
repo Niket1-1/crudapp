@@ -19,6 +19,8 @@ In the project directory, you can run:
 ## Demo Video Link
 ### https://drive.google.com/file/d/1NWNUDH02dMEPyQw6VdeaC7DZM4hb1b32/view?usp=sharing
 
+## App link (Heroku)
+### https://crud-app-application.herokuapp.com/
 
 ## Tech Stack Used
 
