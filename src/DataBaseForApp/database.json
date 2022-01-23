@@ -35,6 +35,15 @@
       "gender": "Male",
       "hobbie": "Coding",
       "id": 4
+    },
+    {
+      "name": "shalini priya",
+      "username": "2022-01-05",
+      "email": "shalinipriya0319@gmail.com",
+      "phoneno": "09304000968",
+      "gender": "Female",
+      "hobbie": "Wrestling",
+      "id": 5
     }
   ]
 }
