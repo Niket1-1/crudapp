@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Shikhar Dhawan",
+      "username": "2022-01-15",
+      "email": "dhawan@gmail.com",
+      "phoneno": "9879878766",
+      "gender": "Male",
+      "id": 1,
+      "hobbie": "Playing Cricket"
+    },
+    {
+      "name": "Virat Kohli",
+      "username": "2022-01-19",
+      "email": "kholi@gmail.com",
+      "phoneno": "8768978787",
+      "gender": "Male",
+      "id": 2,
+      "hobbie": "Playing Cricket"
+    }
+  ]
+}
