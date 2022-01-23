@@ -14,8 +14,8 @@ In the project directory, you can run:
 
 ## Runs the app in the development mode.
 ### Open [http://localhost:3000](http://localhost:3000) to view it in your browser for react app.
-### Open [http://localhost:3002](http://localhost:3002) to view it in your browser for json server.
-
+### Open [http://localhost:3002](http://localhost:3002) to view it in your browser for json server. (work only when you run json-server in localsystem by entering command npm run server)
+ 
 ## Demo Video Link
 ### https://drive.google.com/file/d/1NWNUDH02dMEPyQw6VdeaC7DZM4hb1b32/view?usp=sharing
 
