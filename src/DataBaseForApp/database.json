@@ -17,6 +17,24 @@
       "gender": "Male",
       "id": 2,
       "hobbie": "Playing Cricket"
+    },
+    {
+      "name": "Ms Dhoni (Mahi)",
+      "username": "1987-07-23",
+      "email": "dhoni@gmail.com",
+      "phoneno": "988776654",
+      "gender": "Male ",
+      "hobbie": "Biking,Cricket",
+      "id": 3
+    },
+    {
+      "name": "Niket Nayan",
+      "username": "2000-10-11",
+      "email": "niket@gmail.com",
+      "phoneno": "9354970077",
+      "gender": "Male",
+      "hobbie": "Coding",
+      "id": 4
     }
   ]
 }
